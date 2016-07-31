@@ -1,2 +1,2 @@
-# norway-page
+# norway story-page
 using html and css 
